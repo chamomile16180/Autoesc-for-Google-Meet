@@ -26,9 +26,7 @@ setInterval(check,1000)
 In order to start using this short script you will need to configure it first. Follow the steps below (✧≖╭͜ʖ╮≖)
 1. Start or enter a Google Meet video meeting, the configuration is not account dependent and can happen in every meet room  with any number of partecipants. 
 2. Inspect the page, you can do using the shortcut( ctrl + shift + i ) or right-clicking > inspect
-3. Go on the sources menu
-
-![alt text](https://i.imgur.com/h26Upb8.png)
+3. Go on the sources menu ![alt text](https://i.imgur.com/h26Upb8.png)
 4. 
   
 
