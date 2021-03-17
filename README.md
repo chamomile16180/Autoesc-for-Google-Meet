@@ -28,6 +28,6 @@ In order to start using this short script you will need to configure it first. F
 2. Inspect the page, you can do using the shortcut( ctrl + shift + i ) or right-clicking > inspect
 3. Go on the sources menu <br/>  <br/> ![alt text](https://i.imgur.com/h26Upb8.png)
 4. Click on the double brackets( ">>") and then click on "Snippets" <br/>  <br/> ![alt text](https://i.imgur.com/GBTWXIZ.png)
-5.
+5. On the snippet page you need to make a new snippet by pressing "+New snippet" and copy paste the code that you saw at the start of this page in the new snippet blank space, at the end of the process you should have something like this  <br/>  <br/>
 
 
