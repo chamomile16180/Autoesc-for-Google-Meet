@@ -21,6 +21,8 @@ function check(){
     }
 setInterval(check,1000)
 ```
-## HOW TO USE 
-###### a 
+## HOW TO USE IT 
+### Configuration  
+In order to start using this short script you will need to configure it first. Follow the steps below (✧≖╭͜ʖ╮≖)
+
 
