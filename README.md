@@ -27,7 +27,7 @@ In order to start using this short script you will need to configure it first. F
 1. Start or enter a Google Meet video meeting, the configuration is not account dependent and can happen in every meet room  with any number of partecipants. 
 2. Inspect the page, you can do using the shortcut( ctrl + shift + i ) or right-clicking > inspect
 3. Go on the sources menu <br/>  <br/> ![alt text](https://i.imgur.com/h26Upb8.png)
-4. 
-  
+4. Click on the double brackets( ">>") and then click on "Snippets" <br/>  <br/> ![alt text](https://imgur.com/a/VGfa14r)
+5.
 
 
