@@ -24,7 +24,7 @@ setInterval(check,1000)
 ## HOW TO USE IT 
 ### Configuration  
 In order to start using this short script you will need to configure it first. Follow the steps below (✧≖╭͜ʖ╮≖)
-1: Start or enter in a Google Meet video meeting, the configuration is not account dependent and can happen in every meet room  with any number of partecipants. 
+1.Start or enter in a Google Meet video meeting, the configuration is not account dependent and can happen in every meet room  with any number of partecipants. 
 
 
 
